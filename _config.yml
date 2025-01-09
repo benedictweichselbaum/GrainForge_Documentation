@@ -3,3 +3,6 @@ description: The documentation and manual for GrainForge - the Mac App for digit
 theme: just-the-docs
 
 url: https://docs.grainforge.de
+
+#aux_links:
+#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
