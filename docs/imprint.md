@@ -1,10 +1,9 @@
 ---
 title: Imprint
-layout: default
 nav_order: 2
 ---
 
-### Imprint
+# Imprint
 
 Responsible for the content of this website is:
 
