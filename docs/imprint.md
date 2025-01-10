@@ -1,6 +1,6 @@
 ---
 title: Imprint
-nav_order: 1
+nav_order: 2
 ---
 
 # Imprint
