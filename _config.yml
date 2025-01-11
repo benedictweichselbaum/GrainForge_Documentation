@@ -14,5 +14,9 @@ defaults:
 plugins:
   - jekyll-seo-tag
 
-#aux_links:
-#  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+#logo: "/assets/images/logo.png"
+
+favicon: "/assets/images/favicon.ico"
+
+aux_links:
+  Imprint: /imprint.html

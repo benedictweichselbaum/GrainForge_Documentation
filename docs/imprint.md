@@ -1,6 +1,8 @@
 ---
 title: Imprint
-nav_order: 2
+nav_order: 999
+nav_exclude: true
+permalink: /imprint.html
 ---
 
 # Imprint
