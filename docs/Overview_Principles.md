@@ -15,4 +15,4 @@ On the right the actual work takes place. It shows the main view where you curat
 ### Main Views
 GrainForge knows two basic views in which the work takes place
 - Gallery: The gallery is the first thing shown when selecting an added folder. It shows all images of the folder (not sub-folders).
-- Edit: When selecting an image with a double-click the edit view is shown where you can process the images of the currently selected folder
+- Edit: When selecting an image with a double-click the edit view is shown where you can process the images of the currently selected folder 

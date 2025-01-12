@@ -1,14 +1,20 @@
 ---
-title: Imprint
+title: Imprint | Impressum
 nav_order: 999
 nav_exclude: true
 permalink: /imprint.html
 ---
 
-# Imprint
+# Imprint | Impressum
 
-Responsible for the content of this website is:
+### Angaben nach § 5 DDG (Information according to § 5 DDG):
+<br>
+Benedict Weichselbaum Softwareentwicklung (Kleinunternehmung)
 
-Benedict Weichselbaum
-Hohenzollernstr. 57
+
+Benedict Weichselbaum <br>
+Hohenzollernstr. 57 <br>
 90475 Nürnberg - Germany
+
+
+E-Mail: work@bweichselbaum.de
