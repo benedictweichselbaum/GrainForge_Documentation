@@ -1,9 +1,9 @@
 ---
-title: Image editing
+title: Image Editing
 nav_order: 5
 nav_exclude: false
 ---
-# Image-Editing
+# Image Editing
 Image-editing is the central feature of GrainForge. When an image is double-clicked the edit view opens.
 
 ![Edit View Overview](/assets/images/edit_overview.png)
