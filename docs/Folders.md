@@ -21,6 +21,8 @@ After adding a folder via the Finder window all photos within get loaded. No pho
 When a folder is selected the folder can be deleted by using the "Minus"-Button right next to the Add-Folder-Button.
 When the folder is deleted all data objects that are related also get deleted (photo edits).
 
+A non-selected folder can also be deleted by calling the context menu by right-clicking the folder.
+
 ### Renaming Folders
 Internally folders can be renamed in the application by right-clicking a folder in the navigation bar.
 This can be used for better distingushing between your folders in GrainForge. 
