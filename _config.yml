@@ -16,7 +16,7 @@ plugins:
 
 #logo: "/assets/images/logo.png"
 
-favicon: "/assets/images/favicon.ico"
+favicon_ico: "/assets/images/favicon.ico"
 
 aux_links:
   Imprint: /imprint.html
