@@ -11,7 +11,7 @@ This ensures the best possible outcomes and a smooth workflow.
 ### Adding Folders
 To add a folder from the disk you have to press the "Plus"-button in the navigation bar. 
 If the navigation bar is not visible the button is hidden in a sub-menu in the top right corner of the application.
-Alternatively, you can use the shortcut ⌘⇧N.
+Alternatively, you can use the shortcut ⌘⇧N or directly drop a folder from the finder into the folder list!
 
 ![Add Folder](/assets/images/add_folder.png)
 
