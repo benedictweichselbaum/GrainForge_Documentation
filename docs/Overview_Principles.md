@@ -20,7 +20,7 @@ GrainForge knows two basic views in which the work takes place
 ![Edit View](/assets/images/edit_view.png)
 
 ### Data Model and Storage
-GrainForge knows different data object which are saved on your device. There is no online storage.
+GrainForge knows different data objects which are saved on your device. There is no online storage.
 
 Savable objects are:
 - The edit parameters of an image
