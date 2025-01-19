@@ -34,5 +34,7 @@ A saved color can be applied with the corresponding drop-down.
 #### Saving a new Film Base Color
 When you found your film base color you can save it by entering a name in the text field and hitting "save". The name now gets displayed above, and the film base color can be applied in other images.
 
+Saved film base colors can be found in the preferences dialogue (⌘,) under the tab "Film Base Colors"
+
 #### Finding the right Film Base Color
 Depending on multiple factors (image/scan lighting conditions, film stock etc.) finding the film base color can take a little while. Get familiar with the mechanics and your will get a feeling for it!
