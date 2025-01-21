@@ -16,4 +16,4 @@ This documentation shows you all the functionality of the application from core 
 
 The application first started as a personal project because existing solutions where not exactly cheap nor offered me the functionality I personally wanted. My goal was to create a simple-to-use application for digitalizing film that when once configured offered a fast workflow in order to allow you to spend more time taking photos instead of processing them.
 
-If you have bugs or feature requests you can tell me about it with the upcoming GitHub issue board.
+If you have bugs or feature requests you can tell me about it on my [GitHub issue board](https://github.com/benedictweichselbaum/GrainForge_Issues/issues) (GitHub account is required).
