@@ -9,7 +9,6 @@ nav_exclude: false
 GrainForge supports a wide range of image formats that can be imported including many RAW formats.
 
 #### RAW Formats
-- .raw
 - .cr2
 - .nef
 - .arw
