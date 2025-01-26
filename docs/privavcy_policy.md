@@ -1,5 +1,5 @@
 ---
-title: Imprint | Impressum
+title: Privacy Policy
 nav_order: 9999
 nav_exclude: true
 permalink: /privacy_policy.html
