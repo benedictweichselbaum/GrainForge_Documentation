@@ -10,6 +10,8 @@ permalink: /
 
 ![Overview Shot of the Grainforge Application](/assets/images/overview.png)
 
+[![Download App Store Link](/assets/logos/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/app/grainforge/id6738931818)
+
 With GrainForge you can take your photographed or scanned film negatives or positives and digitally process them by developing your negatives, applying edits and curating your gallery.
 
 This documentation shows you all the functionality of the application from core features to hidden tweaks for more advanced usage.
